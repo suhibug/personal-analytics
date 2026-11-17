@@ -1,0 +1,4 @@
+.DS_Store
+# Raw exports can hold personal data. Only commit totals.
+exports/
+*.xlsx
